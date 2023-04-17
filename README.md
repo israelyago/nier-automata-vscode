@@ -1,5 +1,5 @@
 # Nier: Automata Theme
-This theme was inspired by the game Nier: Automata
+This theme was inspired by the game Nier: Automata and https://github.com/shelune/vscode-nier-automata-light
 
 ## License
 
