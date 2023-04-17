@@ -3,12 +3,22 @@
   "displayName": "Nier: Automata Theme",
   "description": "Inspired in Nier: Automata",
   "version": "0.0.1",
+  "publisher": "israelyagopereira",
+  "license": "(MIT OR Apache-2.0)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/israelyago/nier-automata-vscode"
+  },
+  "bugs": {
+    "url": "https://github.com/shelune/vscode-nier-automata-light/issues"
+  },
   "engines": {
     "vscode": "^1.77.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
