@@ -24,7 +24,7 @@
       {
         "label": "Nier: Automata Theme",
         "uiTheme": "vs",
-        "path": "./themes/light.json"
+        "path": "./themes/light-color-theme.json"
       }
     ]
   }
