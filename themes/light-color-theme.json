@@ -62,7 +62,6 @@
 		"sideBarSectionHeader.background": "#DAD3BA",
 		"sideBarSectionHeader.border": "#6D6959",
 		"sideBarSectionHeader.foreground": "#4E4B42",
-		"editorGroup.background": "#8D8F7E",
 		"editorGroup.border": "#DAD3BA",
 		"editorGroup.dropBackground": "#A5A18E7f",
 		"editorGroupHeader.noTabsBackground": "#DAD3BA",
@@ -205,14 +204,13 @@
 		"terminal.ansiBrightWhite": "#eff0e2",
 		"terminal.ansiBrightYellow": "#d7ac01",
 		"debugToolBar.background": "#8D8F7E",
-		"welcomePage.buttonBackground": "#8D8F7E",
-		"welcomePage.buttonHoverBackground": "#A5A18E",
 		"walkThrough.embeddedEditorBackground": "#DAD3BA"
 	},
 	"tokenColors": [
 		{
 			"scope": [
-				"comment"
+				"comment",
+				"punctuation.definition.comment"
 			],
 			"settings": {
 				"fontStyle": "italic",
@@ -228,7 +226,6 @@
 				"support.type.property-name.table",
 				"support.type.property-name.array",
 				"constant.numeric",
-				"punctuation.definition",
 				"entity.name.tag",
 				"entity.name.namespace"
 			],
@@ -247,7 +244,8 @@
 		},
 		{
 			"scope": [
-				"entity.name.type"
+				"entity.name.type",
+				"entity.other"
 			],
 			"settings": {
 				"foreground": "#0f860b"
@@ -257,7 +255,8 @@
 			"scope": [
 				"constant.language",
 				"entity.name.function",
-				"storage.modifier.mut"
+				"storage.modifier.mut",
+				"support.function.builtin"
 			],
 			"settings": {
 				"foreground": "#c77bb0"
