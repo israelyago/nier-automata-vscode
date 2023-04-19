@@ -1,5 +1,5 @@
 # Nier: Automata Theme
-:warning: Unstable: This theme currently is in alpha and can change at any time
+⚠️ Unstable: This theme currently is in alpha and can change at any time
 
 This theme was inspired by the game Nier: Automata and https://github.com/shelune/vscode-nier-automata-light
 
